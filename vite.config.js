@@ -6,5 +6,5 @@ export default defineConfig({
   plugins: [
     react(), tailwindcss(),
   ],
-  base: "/ecommerse",
+  base: "/ecommerse"
 })
